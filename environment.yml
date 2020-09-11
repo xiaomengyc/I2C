@@ -1,4 +1,4 @@
-name: tf-keras
+name: i2c
 channels:
   - https://conda.anaconda.org/cannylab
   - defaults
@@ -369,5 +369,5 @@ dependencies:
     - webcolors==1.10
     - websocket-client==0.57.0
     - xmltodict==0.12.0
-prefix: /home/xiaolin/xlzhang/anaconda3/envs/tf-keras
+prefix: /home/i2c/anaconda3/envs/i2c
 
