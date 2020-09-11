@@ -11,7 +11,7 @@ python build.py build_ext --inplace
 ```
 
 ## Train
-We finetune the $I^2C$ model on the ILSVRC dataset.  
+We finetune the `I2C` model on the ILSVRC dataset.  
 ```
 cd scripts
 sh train.sh
